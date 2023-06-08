@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\bin\Debug\Giant_Killer_Robot.exe.config
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\bin\Debug\Giant_Killer_Robot.exe
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\bin\Debug\Giant_Killer_Robot.pdb
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\obj\Debug\Giant_Killer_Robot.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\obj\Debug\Giant_Killer_Robot.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\obj\Debug\Giant_Killer_Robot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\obj\Debug\Giant_Killer_Robot.exe
+C:\Users\user\Desktop\C# Things\Giant_Killer_Robot\Giant_Killer_Robot\obj\Debug\Giant_Killer_Robot.pdb
